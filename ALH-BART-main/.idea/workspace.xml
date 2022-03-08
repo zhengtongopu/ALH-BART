@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d86e54-8663-47b9-a5e2-9b9ef59e9b24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/lib/stanford-corenlp-full-2018-02-27.zip.05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/open_ie_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/open_ie_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/process_large_corpus.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/process_large_corpus.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/stanford-openie/stanford-openie-models.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/stanford-openie/stanford-openie-models.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/stanford-openie/stanford-openie.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local/v1/stanford-openie/stanford-openie.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/data/Stanford-OpenIE-Python_local" />
+  </component>
+  <component name="JupyterTrust" id="74f4e8bf-0b64-4c97-8a74-136da1981a74" />
+  <component name="ProjectId" id="21qvEbRRySeqdYWHJuyC6KrFD4v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lightning_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Structure-Aware-BART-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/lightning_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lightning_base" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d86e54-8663-47b9-a5e2-9b9ef59e9b24" name="Default Changelist" comment="" />
+      <created>1638681322006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638681322006</updated>
+      <workItem from="1638681328669" duration="2733000" />
+      <workItem from="1641006051227" duration="6001000" />
+      <workItem from="1641356239910" duration="3153000" />
+      <workItem from="1641520320965" duration="1283000" />
+      <workItem from="1641642634547" duration="2835000" />
+      <workItem from="1641655237560" duration="898000" />
+      <workItem from="1641690390248" duration="14812000" />
+      <workItem from="1641773549290" duration="4958000" />
+      <workItem from="1641998407348" duration="3946000" />
+      <workItem from="1642036368782" duration="11857000" />
+      <workItem from="1642077454980" duration="5423000" />
+      <workItem from="1642123980850" duration="2799000" />
+      <workItem from="1642159964650" duration="8583000" />
+      <workItem from="1642203928805" duration="1437000" />
+      <workItem from="1642242080322" duration="11405000" />
+      <workItem from="1642293391887" duration="9397000" />
+      <workItem from="1642327448362" duration="2356000" />
+      <workItem from="1642390151002" duration="4461000" />
+      <workItem from="1644989824560" duration="1255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642160178042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1080.-247.1080.1880@0.0.1920.1040" timestamp="1642160178042" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1642037990666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-247.1080.1880@0.0.1920.1040" timestamp="1642037990666" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1642037999867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1080.-247.1080.1880@0.0.1920.1040" timestamp="1642037999867" />
+  </component>
+</project>
